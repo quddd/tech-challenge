@@ -1,4 +1,4 @@
-# Mavennet Backend-Deleoper Challenge
+# Mavennet Backend-Developer Challenge
 
 ## Installing dependencies
   npm install 
