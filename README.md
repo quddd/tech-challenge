@@ -14,5 +14,5 @@
   - /albums/:albumId to return a specific album
   - /photos/:photoId to return a specific photo
  
- ## https://jsonplaceholder.typicode.com used as database
+ ## https://jsonplaceholder.typicode.com used as database to reduce dependecies
   
